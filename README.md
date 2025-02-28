@@ -49,7 +49,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/GORDITO CON FLOW">
+  <a href="https://open.spotify.com/user/Gordito con Flow">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=GORDITO%20CON%20FLOW&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
